@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BitAndLogicalAnd {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		Byte a = 0, b = 0;
 
 		boolean left, right;

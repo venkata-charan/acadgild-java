@@ -13,6 +13,7 @@ public class AddWithOutPlus {
 		System.out.println("enter second number");
 		b = in.nextInt();
 		System.out.println("sum of a- " + a + "and b - " + b + " is " + add_No_Plus(a, b));
+		in.close();
 	}
 
 	public static int add_No_Plus(int a, int b) {
