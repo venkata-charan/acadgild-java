@@ -6,6 +6,7 @@ public class AddWithOutPlus {
 
 	public static void main(String[] args) {
 		int a = 0, b = 0;
+		int c = 0;
 
 		Scanner in = new Scanner(System.in);
 		System.out.println("enter first number");
